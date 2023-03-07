@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Leicester
 Nová Dubnica
-=======
-Dobra Voda
->>>>>>> main
