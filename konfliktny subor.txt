@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Trenčín
 Nová Dubnica
 Dobšiná
-=======
-Kremnica
->>>>>>> main
