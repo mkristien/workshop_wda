@@ -1,4 +1,4 @@
 # Git Workshop pre WDA
 
-Vitajte :)
+Vitajte vsetci :)
 
