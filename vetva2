@@ -1,0 +1,2 @@
+sentenace = ('The sky is blue.')
+print(sentence)
