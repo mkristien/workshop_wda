@@ -1,2 +1,3 @@
 spojit GitHub ucet s GitKrakenom
 vyriešiť konflikty
+updatovat subory na githube cez gitkraken
