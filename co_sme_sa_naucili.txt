@@ -1,4 +1,4 @@
-vsetko mozne
-    spojit GitHub ucet s GitKrakenom
-    vyriešiť konflikty
-    updatovat subory na githube cez gitkraken
+updatovat subory na githube cez gitkraken
+co je to Git, GitHub, GitKraken
+vyriešiť konflikty
+spojit GitHub ucet s GitKrakenom
